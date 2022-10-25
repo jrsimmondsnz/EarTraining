@@ -1,0 +1,16 @@
+{
+"companyName": "Four Fox Creative",
+"productName": "Four Fox Ear Training",
+"productVersion": "0.40",
+"dataUrl": "FFET builds.data.unityweb",
+"wasmCodeUrl": "FFET builds.wasm.code.unityweb",
+"wasmFrameworkUrl": "FFET builds.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.40f1"
+}
